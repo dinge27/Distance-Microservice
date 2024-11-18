@@ -27,3 +27,4 @@ response = {
     "manhattan_distance": #
 }
 
+![UML Diagram (1)](https://github.com/user-attachments/assets/d82dd412-bc90-4862-843e-ce88d2bd255b)
